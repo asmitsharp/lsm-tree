@@ -34,11 +34,6 @@ This project implements a Log-Structured Merge-Tree (LSM-Tree) based key-value s
    go build ./...
    ```
 
-3. Run the tests:
-   ```
-   go test ./...
-   ```
-
 ## Usage
 
 ### Starting the Server
@@ -132,11 +127,6 @@ The key components of this LSM-Tree implementation are:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This project was inspired by the LSM-Tree design described in the "BigTable" paper by Chang et al.
-- Thanks to all contributors who have helped with the development of this project.
